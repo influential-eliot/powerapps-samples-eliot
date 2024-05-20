@@ -1,5 +1,7 @@
 # Power Apps Samples
 
+BINGO
+
 > [!IMPORTANT]  
 > We are currently in the process to move all the samples from product-specific repositories like this repository to one repository for all Power Platform Samples. Please create Pull Requests (PRs) in that [repository](https://github.com/pnp/powerplatform-samples)
 
